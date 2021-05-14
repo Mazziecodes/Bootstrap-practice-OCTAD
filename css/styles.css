@@ -8,10 +8,6 @@ body {
   background-color: #d9534f;
 }
 
-.container-fluid {
-  padding: 3% 10%;
-}
-
 h1 {
   font-size: 3rem;
   line-height: 1.5;
@@ -21,6 +17,10 @@ h1 {
 h3 {
   font-family: 'Dela Gothic One', cursive;
   font-weight: normal;
+}
+
+.container-fluid {
+  padding: 3% 10%;
 }
 
 /* Navigation Bar */
@@ -41,7 +41,7 @@ h3 {
   font-size: 1.2rem;
 }
 
-/* Buttons */
+/* Store */
 .store-button {
   margin: 2rem 0 2rem;
 }
@@ -51,9 +51,14 @@ h3 {
   outline-color: #ff0000;
 }
 
-/* Shop Image */
 .shop-image {
   width: 60%;
+  position: relative;
+  left: 25%;
+}
+
+.fakestore{
+  padding: 7% 10% 5%
 }
 
 /* Features Section */
@@ -97,9 +102,6 @@ h3 {
 
 .story-text {
   font-family: 'Nanum Gothic', sans-serif;
-}
-
-.video-post{
 }
 
 /* Misc */
