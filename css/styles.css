@@ -1,0 +1,109 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+#title {
+  background-color: #d9534f;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Dela Gothic One', cursive;
+  font-weight: normal;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-size: 1.25rem;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.navbar {
+  padding: 0 0 5rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Buttons */
+.store-button {
+  margin: 2rem 0 2rem;
+}
+
+.redbutton {
+  color: #ff0000;
+  outline-color: #ff0000;
+}
+
+/* Shop Image */
+.shop-image {
+  width: 60%;
+}
+
+/* Features Section */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-text {
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #d9534f;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ad423f;
+}
+
+/* Current Blog post */
+
+.story-title {
+  font-size: 2.5rem;
+}
+
+.date {
+  text-align: right;
+}
+
+.blog-div {
+  background-color: #d9534f;
+  margin: 5rem 0 7rem;
+  padding: 7% 15%;
+}
+
+.story-text {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.video-post{
+}
+
+/* Misc */
+
+.works-cited{
+  text-align: center;
+}
